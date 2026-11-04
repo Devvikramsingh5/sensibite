@@ -42,3 +42,5 @@ Stay allergen-aware and make your food choices smarter with Sensibite! 🌐🥦�
 ## Contributors
 
 [![Contributors](https://contrib.rocks/image?repo=ksh1710/WorldLens-hackcbs)](https://github.com/ksh1710/WorldLens-hackcbs/graphs/contributors)
+
+<!-- contributor: Dev Vikram Singh -->
